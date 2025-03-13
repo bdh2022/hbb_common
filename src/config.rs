@@ -102,7 +102,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["ops.zyfok.us.kg"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["nas.zyfok.top"];
 pub const RS_PUB_KEY: &str = "KJzNYE6AGnZOBBDIiAYE3B1zfroVX8oh3v5sDSLRHvs=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
